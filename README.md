@@ -3,6 +3,13 @@
 # 💫 About Me:
 A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps/MLOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD, Data Engineering
 
+# 🌐 Socials
+
+<p align="left">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/pm310/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<a href="mailto:mangukiyaparth310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 # ⚙️ Tech Stack
 
