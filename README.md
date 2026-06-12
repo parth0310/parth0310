@@ -1,5 +1,5 @@
 <img src="banner.png" alt="Banner" width="100%">
-# 💫 About Me:
+#💫 About Me:
 A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps/MLOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD, Data Engineering
 
 
