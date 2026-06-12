@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%">
+k<img src="banner.png" alt="Banner" width="100%">
 # 💫 About Me:
 A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working on Cloud Computing(AWS)/DevOps/MLOps.<br><br>💬 Ask me about AWS, DevOps, CI/CD, Data Engineering
 
@@ -25,12 +25,7 @@ A passionate AWS Cloud/DevOps Engineer from India<br><br>🌱 Currently working 
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
 <!--
 **parth0310/parth0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
