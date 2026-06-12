@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="your-banner-image-link.png" alt="Banner" width="100%">
 
 <!--
 **parth0310/parth0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
